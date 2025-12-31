@@ -18,7 +18,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=heloo!!+I+am+Shahed+Anwar+Akash+Chowdhury;I+am+Web+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=heloo!!+I+am+Shahed+Anwar+Akash+;I+am+Web+developer+)](https://git.io/typing-svg)
 
 ###
 
