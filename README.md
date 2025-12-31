@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=heloo!!+I+am+Shahed+Anwar+Akash+Chowdhurydhury;I+am+Web+developer+)](https://git.io/typing-svg)
 
 ###
 
